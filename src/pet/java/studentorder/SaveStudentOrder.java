@@ -1,4 +1,6 @@
+package pet.java.studentorder;
 
+import domain.StudentOrder;
 
 public class SaveStudentOrder {
     public static void main(String[] args) {
